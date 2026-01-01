@@ -9,4 +9,6 @@ From: Ofsted
 Published: 11 November 2024
 Last updated: 10 September 2025
 #
+“This dataset does not include learner volume metrics. Analysis therefore focuses on inspection outcomes and quality indicators rather than participation counts. This ensures conclusions are aligned with the data’s scope and avoids unsupported assumptions.”
+#
 “I created a exploratory dashboard to summarise inspection outcomes across regions, provider types, and inspection history. The dashboard highlights regional variation, quality distributions, and supporting evidence-based quality monitoring.”
